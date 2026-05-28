@@ -10,7 +10,7 @@ const Navbar = ({ activeView, setActiveView, onOpenCreateModal }) => {
       {/* Brand Logo */}
       <div className="flex items-center gap-3">
         <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-indigo-500 to-violet-500 flex items-center justify-center text-white font-bold text-base shadow-md shadow-indigo-500/10">
-          T
+          S
         </div>
         <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
           Stride

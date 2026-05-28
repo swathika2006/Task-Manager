@@ -65,7 +65,7 @@ const Register = () => {
         {/* Header Section */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-tr from-indigo-500 to-violet-500 text-white font-bold text-xl shadow-lg shadow-indigo-500/20 active-glow mb-4">
-            T
+            S
           </div>
           <h1 className="text-3xl font-extrabold tracking-tight text-white">
             Create Account
