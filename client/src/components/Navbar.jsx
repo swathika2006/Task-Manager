@@ -13,7 +13,7 @@ const Navbar = ({ activeView, setActiveView, onOpenCreateModal }) => {
           T
         </div>
         <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-          Thiranex
+          Stride
         </span>
         <span className="hidden sm:inline bg-indigo-500/10 text-indigo-400 text-xs px-2.5 py-0.5 rounded-full border border-indigo-500/20 font-semibold uppercase tracking-wider">
           Workspace

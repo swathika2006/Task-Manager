@@ -51,7 +51,7 @@ const Login = () => {
             T
           </div>
           <h1 className="text-3xl font-extrabold tracking-tight text-white">
-            Welcome to <span className="bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Thiranex</span>
+            Welcome to <span className="bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Stride</span>
           </h1>
           <p className="text-slate-400 mt-2 text-sm">
             Manage your daily workflows with clarity and precision.
