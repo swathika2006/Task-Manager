@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: thiranex-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: MONGODB_URI
+        sync: false        # Set this manually in Render dashboard
+      - key: JWT_SECRET
+        sync: false        # Set this manually in Render dashboard
+      - key: FRONTEND_URL
+        sync: false        # Set this to your Vercel URL in Render dashboard
